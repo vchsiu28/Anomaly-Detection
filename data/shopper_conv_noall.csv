@@ -1,0 +1,526 @@
+Visitor,Order,Customer,Device,Date,Rate,Source
+13030,291,Customer,Tablet,3/12/2019,0.022333077513430544,Customer Tablet
+161097,3820,Customer,Desktop,3/12/2019,0.02371242170866,Customer Desktop
+21400,90,Prospect,Mobile Phone,3/12/2019,0.004205607476635514,Prospect Mobile Phone
+3107,14,Prospect,Tablet,3/12/2019,0.004505954296749276,Prospect Tablet
+20966,103,Prospect,Desktop,3/12/2019,0.0049127158256224365,Prospect Desktop
+172380,304,Undetermined,Mobile Phone,3/12/2019,0.0017635456549483699,Undetermined Mobile Phone
+170359,651,Undetermined,Desktop,3/12/2019,0.0038213419895632155,Undetermined Desktop
+77045,767,Customer,Mobile Phone,3/12/2019,0.009955220974755014,Customer Mobile Phone
+17273,69,Undetermined,Tablet,3/12/2019,0.0039946737683089215,Undetermined Tablet
+1605,4,Prospect,Tablet,2/3/2019,0.0024922118380062306,Prospect Tablet
+6593,26,Prospect,Desktop,2/3/2019,0.0039435765205521,Prospect Desktop
+189335,597,Undetermined,Mobile Phone,2/3/2019,0.003153141257559353,Undetermined Mobile Phone
+143947,1216,Undetermined,Desktop,2/3/2019,0.00844755361348274,Undetermined Desktop
+32030,294,Customer,Mobile Phone,2/3/2019,0.009178894786137995,Customer Mobile Phone
+29660,157,Undetermined,Tablet,2/3/2019,0.005293324342548887,Undetermined Tablet
+6216,131,Customer,Tablet,2/3/2019,0.021074646074646076,Customer Tablet
+41618,916,Customer,Desktop,2/3/2019,0.022009707338170984,Customer Desktop
+8892,31,Prospect,Mobile Phone,2/3/2019,0.003486279802069276,Prospect Mobile Phone
+83629,1897,Customer,Desktop,3/21/2019,0.022683518875031387,Customer Desktop
+12103,58,Prospect,Mobile Phone,3/21/2019,0.004792200280922085,Prospect Mobile Phone
+1451,3,Prospect,Tablet,3/21/2019,0.0020675396278428673,Prospect Tablet
+10019,49,Prospect,Desktop,3/21/2019,0.004890707655454636,Prospect Desktop
+278565,801,Undetermined,Mobile Phone,3/21/2019,0.0028754509719455066,Undetermined Mobile Phone
+185557,2219,Undetermined,Desktop,3/21/2019,0.01195858954391373,Undetermined Desktop
+56338,374,Customer,Mobile Phone,3/21/2019,0.006638503319251659,Customer Mobile Phone
+29032,240,Undetermined,Tablet,3/21/2019,0.008266740148801324,Undetermined Tablet
+7882,142,Customer,Tablet,3/21/2019,0.018015732047703632,Customer Tablet
+13215,81,Prospect,Desktop,3/7/2019,0.006129398410896709,Prospect Desktop
+166757,513,Undetermined,Mobile Phone,3/7/2019,0.003076332627715778,Undetermined Mobile Phone
+159627,1610,Undetermined,Desktop,3/7/2019,0.010086013017847858,Undetermined Desktop
+52630,458,Customer,Mobile Phone,3/7/2019,0.008702261067832034,Customer Mobile Phone
+17178,106,Undetermined,Tablet,3/7/2019,0.006170683432297124,Undetermined Tablet
+7143,149,Customer,Tablet,3/7/2019,0.020859582808343838,Customer Tablet
+102523,2480,Customer,Desktop,3/7/2019,0.02418969401987846,Customer Desktop
+11771,78,Prospect,Mobile Phone,3/7/2019,0.006626454846657038,Prospect Mobile Phone
+1471,4,Prospect,Tablet,3/7/2019,0.002719238613188307,Prospect Tablet
+15102,303,Customer,Tablet,3/29/2019,0.02006356773937227,Customer Tablet
+140633,3591,Customer,Desktop,3/29/2019,0.02553454736797196,Customer Desktop
+21094,103,Prospect,Mobile Phone,3/29/2019,0.0048829050914952115,Prospect Mobile Phone
+2675,7,Prospect,Tablet,3/29/2019,0.002616822429906542,Prospect Tablet
+13312,69,Prospect,Desktop,3/29/2019,0.005183293269230769,Prospect Desktop
+264810,460,Undetermined,Mobile Phone,3/29/2019,0.0017370945205996751,Undetermined Mobile Phone
+113833,527,Undetermined,Desktop,3/29/2019,0.004629588959264889,Undetermined Desktop
+108682,937,Customer,Mobile Phone,3/29/2019,0.008621482858246996,Customer Mobile Phone
+23803,63,Undetermined,Tablet,3/29/2019,0.002646725202705541,Undetermined Tablet
+435,4,Prospect,Tablet,2/22/2019,0.009195402298850576,Prospect Tablet
+3013,26,Prospect,Desktop,2/22/2019,0.0086292731496847,Prospect Desktop
+350355,3463,Undetermined,Mobile Phone,2/22/2019,0.009884260250317536,Undetermined Mobile Phone
+362604,8435,Undetermined,Desktop,2/22/2019,0.023262291645982945,Undetermined Desktop
+13225,118,Customer,Mobile Phone,2/22/2019,0.00892249527410208,Customer Mobile Phone
+41597,609,Undetermined,Tablet,2/22/2019,0.014640478880688512,Undetermined Tablet
+1827,35,Customer,Tablet,2/22/2019,0.019157088122605363,Customer Tablet
+18078,370,Customer,Desktop,2/22/2019,0.02046686580373935,Customer Desktop
+3267,24,Prospect,Mobile Phone,2/22/2019,0.007346189164370982,Prospect Mobile Phone
+3368,6,Prospect,Tablet,2/24/2019,0.001781472684085511,Prospect Tablet
+14612,51,Prospect,Desktop,2/24/2019,0.0034902819600328497,Prospect Desktop
+243693,435,Undetermined,Mobile Phone,2/24/2019,0.001785032807671948,Undetermined Mobile Phone
+152059,687,Undetermined,Desktop,2/24/2019,0.004517983151276807,Undetermined Desktop
+90549,1096,Customer,Mobile Phone,2/24/2019,0.012103943721079195,Customer Mobile Phone
+27062,58,Undetermined,Tablet,2/24/2019,0.002143226664695884,Undetermined Tablet
+16051,412,Customer,Tablet,2/24/2019,0.02566818266774656,Customer Tablet
+114164,3442,Customer,Desktop,2/24/2019,0.03014960933394065,Customer Desktop
+18666,71,Prospect,Mobile Phone,2/24/2019,0.0038037072752598313,Prospect Mobile Phone
+26020,118,Prospect,Desktop,2/20/2019,0.0045349730976172176,Prospect Desktop
+218535,605,Undetermined,Mobile Phone,2/20/2019,0.0027684352620861645,Undetermined Mobile Phone
+196671,1235,Undetermined,Desktop,2/20/2019,0.006279522654585578,Undetermined Desktop
+107535,1250,Customer,Mobile Phone,2/20/2019,0.011624122378760404,Customer Mobile Phone
+25169,101,Undetermined,Tablet,2/20/2019,0.004012872978664229,Undetermined Tablet
+16598,333,Customer,Tablet,2/20/2019,0.020062658151584527,Customer Tablet
+177510,4292,Customer,Desktop,2/20/2019,0.0241789194974931,Customer Desktop
+25639,95,Prospect,Mobile Phone,2/20/2019,0.003705292718124732,Prospect Mobile Phone
+4206,10,Prospect,Tablet,2/20/2019,0.002377555872563005,Prospect Tablet
+78615,864,Customer,Mobile Phone,2/25/2019,0.01099026903262736,Customer Mobile Phone
+22099,58,Undetermined,Tablet,2/25/2019,0.0026245531472012308,Undetermined Tablet
+12712,345,Customer,Tablet,2/25/2019,0.02713971050975456,Customer Tablet
+158064,4095,Customer,Desktop,2/25/2019,0.025907227452171274,Customer Desktop
+15417,46,Prospect,Mobile Phone,2/25/2019,0.0029837192709346824,Prospect Mobile Phone
+2415,4,Prospect,Tablet,2/25/2019,0.0016563146997929607,Prospect Tablet
+18804,68,Prospect,Desktop,2/25/2019,0.0036162518613061046,Prospect Desktop
+212441,355,Undetermined,Mobile Phone,2/25/2019,0.001671052198022039,Undetermined Mobile Phone
+182449,837,Undetermined,Desktop,2/25/2019,0.004587583379464946,Undetermined Desktop
+48238,485,Customer,Mobile Phone,2/4/2019,0.010054314026286329,Customer Mobile Phone
+29149,179,Undetermined,Tablet,2/4/2019,0.006140862465264674,Undetermined Tablet
+7674,175,Customer,Tablet,2/4/2019,0.022804274172530625,Customer Tablet
+110329,2413,Customer,Desktop,2/4/2019,0.021870949614335302,Customer Desktop
+11000,60,Prospect,Mobile Phone,2/4/2019,0.005454545454545455,Prospect Mobile Phone
+1718,6,Prospect,Tablet,2/4/2019,0.003492433061699651,Prospect Tablet
+14170,70,Prospect,Desktop,2/4/2019,0.00494001411432604,Prospect Desktop
+213592,623,Undetermined,Mobile Phone,2/4/2019,0.0029167759092100826,Undetermined Mobile Phone
+211332,1621,Undetermined,Desktop,2/4/2019,0.007670395396816381,Undetermined Desktop
+14675,342,Customer,Tablet,2/17/2019,0.02330494037478705,Customer Tablet
+104522,2616,Customer,Desktop,2/17/2019,0.0250282237232353,Customer Desktop
+19692,76,Prospect,Mobile Phone,2/17/2019,0.0038594353036766203,Prospect Mobile Phone
+3693,7,Prospect,Tablet,2/17/2019,0.0018954779312212293,Prospect Tablet
+16230,74,Prospect,Desktop,2/17/2019,0.004559457794208257,Prospect Desktop
+199485,247,Undetermined,Mobile Phone,2/17/2019,0.0012381883349625285,Undetermined Mobile Phone
+140452,545,Undetermined,Desktop,2/17/2019,0.0038803292227949757,Undetermined Desktop
+80231,763,Customer,Mobile Phone,2/17/2019,0.009510039760192443,Customer Mobile Phone
+24943,52,Undetermined,Tablet,2/17/2019,0.0020847532373812288,Undetermined Tablet
+3474,11,Prospect,Tablet,3/17/2019,0.0031663788140472078,Prospect Tablet
+14915,72,Prospect,Desktop,3/17/2019,0.004827355011733154,Prospect Desktop
+177973,282,Undetermined,Mobile Phone,3/17/2019,0.0015845100099453288,Undetermined Mobile Phone
+136378,507,Undetermined,Desktop,3/17/2019,0.0037176084119139455,Undetermined Desktop
+73535,889,Customer,Mobile Phone,3/17/2019,0.012089481199428844,Customer Mobile Phone
+20290,52,Undetermined,Tablet,3/17/2019,0.002562838836865451,Undetermined Tablet
+13710,356,Customer,Tablet,3/17/2019,0.025966447848285924,Customer Tablet
+108924,3213,Customer,Desktop,3/17/2019,0.029497631376005286,Customer Desktop
+20998,76,Prospect,Mobile Phone,3/17/2019,0.003619392323078389,Prospect Mobile Phone
+19629,103,Prospect,Desktop,2/16/2019,0.005247338122166182,Prospect Desktop
+196988,257,Undetermined,Mobile Phone,2/16/2019,0.001304647998862875,Undetermined Mobile Phone
+143518,612,Undetermined,Desktop,2/16/2019,0.0042642734709235075,Undetermined Desktop
+88728,947,Customer,Mobile Phone,2/16/2019,0.010673068253538906,Customer Mobile Phone
+23217,49,Undetermined,Tablet,2/16/2019,0.00211052246198906,Undetermined Tablet
+15588,374,Customer,Tablet,2/16/2019,0.023992814985886582,Customer Tablet
+116293,2727,Customer,Desktop,2/16/2019,0.023449390762986598,Customer Desktop
+23749,64,Prospect,Mobile Phone,2/16/2019,0.0026948503094867157,Prospect Mobile Phone
+4192,10,Prospect,Tablet,2/16/2019,0.002385496183206107,Prospect Tablet
+3956,10,Prospect,Tablet,2/1/2019,0.0025278058645096056,Prospect Tablet
+21987,98,Prospect,Desktop,2/1/2019,0.004457179242279528,Prospect Desktop
+171096,346,Undetermined,Mobile Phone,2/1/2019,0.002022256510964605,Undetermined Mobile Phone
+158023,586,Undetermined,Desktop,2/1/2019,0.003708320940622568,Undetermined Desktop
+79575,833,Customer,Mobile Phone,2/1/2019,0.010468111844172165,Customer Mobile Phone
+21371,40,Undetermined,Tablet,2/1/2019,0.0018716952880071126,Undetermined Tablet
+14111,321,Customer,Tablet,2/1/2019,0.02274821061583162,Customer Tablet
+154086,3389,Customer,Desktop,2/1/2019,0.02199421102501201,Customer Desktop
+20600,109,Prospect,Mobile Phone,2/1/2019,0.0052912621359223295,Prospect Mobile Phone
+15636,372,Customer,Tablet,2/2/2019,0.02379125095932464,Customer Tablet
+113781,2946,Customer,Desktop,2/2/2019,0.02589184485986237,Customer Desktop
+20558,88,Prospect,Mobile Phone,2/2/2019,0.00428057204008172,Prospect Mobile Phone
+3923,8,Prospect,Tablet,2/2/2019,0.002039255671679837,Prospect Tablet
+17583,75,Prospect,Desktop,2/2/2019,0.004265483705852243,Prospect Desktop
+186678,268,Undetermined,Mobile Phone,2/2/2019,0.0014356271226389824,Undetermined Mobile Phone
+135686,377,Undetermined,Desktop,2/2/2019,0.002778473829282313,Undetermined Desktop
+82752,970,Customer,Mobile Phone,2/2/2019,0.011721771075019335,Customer Mobile Phone
+24742,50,Undetermined,Tablet,2/2/2019,0.0020208552259316143,Undetermined Tablet
+19964,74,Prospect,Desktop,2/18/2019,0.003706672009617311,Prospect Desktop
+204151,338,Undetermined,Mobile Phone,2/18/2019,0.0016556372488990992,Undetermined Mobile Phone
+176174,797,Undetermined,Desktop,2/18/2019,0.0045239365627164066,Undetermined Desktop
+80245,815,Customer,Mobile Phone,2/18/2019,0.01015639603713627,Customer Mobile Phone
+23521,54,Undetermined,Tablet,2/18/2019,0.002295820755920241,Undetermined Tablet
+14472,386,Customer,Tablet,2/18/2019,0.026672194582642344,Customer Tablet
+146963,3666,Customer,Desktop,2/18/2019,0.024945054197314968,Customer Desktop
+17265,81,Prospect,Mobile Phone,2/18/2019,0.004691572545612511,Prospect Mobile Phone
+2954,5,Prospect,Tablet,2/18/2019,0.0016926201760324984,Prospect Tablet
+16640,295,Customer,Tablet,3/14/2019,0.017728365384615384,Customer Tablet
+183308,4342,Customer,Desktop,3/14/2019,0.023686909463853188,Customer Desktop
+19984,108,Prospect,Mobile Phone,3/14/2019,0.005404323458767014,Prospect Mobile Phone
+2847,6,Prospect,Tablet,3/14/2019,0.002107481559536354,Prospect Tablet
+20668,106,Prospect,Desktop,3/14/2019,0.005128701374104897,Prospect Desktop
+205591,335,Undetermined,Mobile Phone,3/14/2019,0.0016294487599165333,Undetermined Mobile Phone
+172120,642,Undetermined,Desktop,3/14/2019,0.0037299558447594704,Undetermined Desktop
+100942,930,Customer,Mobile Phone,3/14/2019,0.00921321154722514,Customer Mobile Phone
+19702,54,Undetermined,Tablet,3/14/2019,0.002740838493553954,Undetermined Tablet
+118793,3296,Customer,Desktop,2/9/2019,0.027745742594260603,Customer Desktop
+23234,91,Prospect,Mobile Phone,2/9/2019,0.003916673840061978,Prospect Mobile Phone
+4242,10,Prospect,Tablet,2/9/2019,0.002357378595002357,Prospect Tablet
+19224,82,Prospect,Desktop,2/9/2019,0.004265501456512693,Prospect Desktop
+208904,287,Undetermined,Mobile Phone,2/9/2019,0.0013738367862750351,Undetermined Mobile Phone
+144951,388,Undetermined,Desktop,2/9/2019,0.002676766631482363,Undetermined Desktop
+91830,1021,Customer,Mobile Phone,2/9/2019,0.01111837090275509,Customer Mobile Phone
+26137,32,Undetermined,Tablet,2/9/2019,0.001224318016604813,Undetermined Tablet
+16583,445,Customer,Tablet,2/9/2019,0.026834710245432068,Customer Tablet
+16977,122,Prospect,Desktop,3/26/2019,0.007186193084761736,Prospect Desktop
+224407,457,Undetermined,Mobile Phone,3/26/2019,0.002036478362974417,Undetermined Mobile Phone
+121250,716,Undetermined,Desktop,3/26/2019,0.005905154639175258,Undetermined Desktop
+94023,781,Customer,Mobile Phone,3/26/2019,0.00830647820214203,Customer Mobile Phone
+20906,94,Undetermined,Tablet,3/26/2019,0.004496316846838228,Undetermined Tablet
+13932,296,Customer,Tablet,3/26/2019,0.02124605225380419,Customer Tablet
+134847,3666,Customer,Desktop,3/26/2019,0.02718636677122961,Customer Desktop
+26284,107,Prospect,Mobile Phone,3/26/2019,0.004070917668543601,Prospect Mobile Phone
+3336,18,Prospect,Tablet,3/26/2019,0.00539568345323741,Prospect Tablet
+3156,5,Prospect,Tablet,3/13/2019,0.0015842839036755384,Prospect Tablet
+21701,98,Prospect,Desktop,3/13/2019,0.004515920925302982,Prospect Desktop
+175752,238,Undetermined,Mobile Phone,3/13/2019,0.0013541808912558605,Undetermined Mobile Phone
+167040,624,Undetermined,Desktop,3/13/2019,0.003735632183908046,Undetermined Desktop
+99062,1013,Customer,Mobile Phone,3/13/2019,0.010225919121358342,Customer Mobile Phone
+18732,32,Undetermined,Tablet,3/13/2019,0.001708306641042067,Undetermined Tablet
+14354,322,Customer,Tablet,3/13/2019,0.022432771352932982,Customer Tablet
+171423,4154,Customer,Desktop,3/13/2019,0.024232454221428862,Customer Desktop
+21951,77,Prospect,Mobile Phone,3/13/2019,0.003507812855906337,Prospect Mobile Phone
+16735,362,Customer,Tablet,2/21/2019,0.021631311622348368,Customer Tablet
+196099,5207,Customer,Desktop,2/21/2019,0.02655291459925854,Customer Desktop
+28860,133,Prospect,Mobile Phone,2/21/2019,0.0046084546084546076,Prospect Mobile Phone
+4401,5,Prospect,Tablet,2/21/2019,0.001136105430583958,Prospect Tablet
+28100,117,Prospect,Desktop,2/21/2019,0.0041637010676156576,Prospect Desktop
+230827,403,Undetermined,Mobile Phone,2/21/2019,0.001745896277298583,Undetermined Mobile Phone
+193744,788,Undetermined,Desktop,2/21/2019,0.004067222726897349,Undetermined Desktop
+114936,1243,Customer,Mobile Phone,2/21/2019,0.010814714275770864,Customer Mobile Phone
+22683,54,Undetermined,Tablet,2/21/2019,0.002380637481814575,Undetermined Tablet
+73321,745,Customer,Mobile Phone,3/18/2019,0.010160799770870556,Customer Mobile Phone
+15693,44,Undetermined,Tablet,3/18/2019,0.0028037978716625245,Undetermined Tablet
+12733,317,Customer,Tablet,3/18/2019,0.02489593968428493,Customer Tablet
+162348,3946,Customer,Desktop,3/18/2019,0.02430581220587873,Customer Desktop
+20810,80,Prospect,Mobile Phone,3/18/2019,0.0038443056222969728,Prospect Mobile Phone
+3215,3,Prospect,Tablet,3/18/2019,0.0009331259720062207,Prospect Tablet
+21709,96,Prospect,Desktop,3/18/2019,0.004422129070892257,Prospect Desktop
+145262,283,Undetermined,Mobile Phone,3/18/2019,0.0019482039349589017,Undetermined Mobile Phone
+160134,618,Undetermined,Desktop,3/18/2019,0.0038592678631646,Undetermined Desktop
+11646,53,Prospect,Desktop,3/9/2019,0.0045509187703932676,Prospect Desktop
+172370,300,Undetermined,Mobile Phone,3/9/2019,0.0017404420722863607,Undetermined Mobile Phone
+116158,586,Undetermined,Desktop,3/9/2019,0.005044852700631898,Undetermined Desktop
+84348,902,Customer,Mobile Phone,3/9/2019,0.01069379238393323,Customer Mobile Phone
+19680,49,Undetermined,Tablet,3/9/2019,0.002489837398373984,Undetermined Tablet
+15535,431,Customer,Tablet,3/9/2019,0.027743804312841968,Customer Tablet
+120220,3473,Customer,Desktop,3/9/2019,0.028888704042588587,Customer Desktop
+17262,80,Prospect,Mobile Phone,3/9/2019,0.004634457189201715,Prospect Mobile Phone
+2576,2,Prospect,Tablet,3/9/2019,0.0007763975155279503,Prospect Tablet
+183123,251,Undetermined,Mobile Phone,2/12/2019,0.0013706634338668546,Undetermined Mobile Phone
+160759,564,Undetermined,Desktop,2/12/2019,0.003508357230388345,Undetermined Desktop
+88257,810,Customer,Mobile Phone,2/12/2019,0.009177742275400252,Customer Mobile Phone
+22769,42,Undetermined,Tablet,2/12/2019,0.001844613289999561,Undetermined Tablet
+14246,272,Customer,Tablet,2/12/2019,0.01909307875894988,Customer Tablet
+144775,3911,Customer,Desktop,2/12/2019,0.02701433258504576,Customer Desktop
+21891,91,Prospect,Mobile Phone,2/12/2019,0.004156959481065278,Prospect Mobile Phone
+4297,6,Prospect,Tablet,2/12/2019,0.001396323016057715,Prospect Tablet
+22499,96,Prospect,Desktop,2/12/2019,0.004266856304724655,Prospect Desktop
+25279,53,Undetermined,Tablet,2/23/2019,0.0020966019225444046,Undetermined Tablet
+16956,491,Customer,Tablet,2/23/2019,0.02895730125029488,Customer Tablet
+123318,3552,Customer,Desktop,2/23/2019,0.028803580985744176,Customer Desktop
+20276,84,Prospect,Mobile Phone,2/23/2019,0.0041428289603472074,Prospect Mobile Phone
+3512,10,Prospect,Tablet,2/23/2019,0.002847380410022779,Prospect Tablet
+16210,79,Prospect,Desktop,2/23/2019,0.004873534855027761,Prospect Desktop
+234022,354,Undetermined,Mobile Phone,2/23/2019,0.0015126782952030152,Undetermined Mobile Phone
+148827,593,Undetermined,Desktop,2/23/2019,0.003984492061252326,Undetermined Desktop
+101177,1232,Customer,Mobile Phone,2/23/2019,0.012176680470857999,Customer Mobile Phone
+160509,4624,Customer,Desktop,3/6/2019,0.028808353425664606,Customer Desktop
+21817,124,Prospect,Mobile Phone,3/6/2019,0.0056836411972315155,Prospect Mobile Phone
+3076,11,Prospect,Tablet,3/6/2019,0.003576072821846554,Prospect Tablet
+21619,136,Prospect,Desktop,3/6/2019,0.006290762754984042,Prospect Desktop
+156066,316,Undetermined,Mobile Phone,3/6/2019,0.0020247843860930637,Undetermined Mobile Phone
+154545,757,Undetermined,Desktop,3/6/2019,0.004898249700734414,Undetermined Desktop
+81075,933,Customer,Mobile Phone,3/6/2019,0.011507863089731727,Customer Mobile Phone
+17846,47,Undetermined,Tablet,3/6/2019,0.0026336433934775303,Undetermined Tablet
+13354,381,Customer,Tablet,3/6/2019,0.02853077729519245,Customer Tablet
+16201,409,Customer,Tablet,3/31/2019,0.025245355224986117,Customer Tablet
+96786,2983,Customer,Desktop,3/31/2019,0.03082057322340008,Customer Desktop
+24417,80,Prospect,Mobile Phone,3/31/2019,0.0032764057828562065,Prospect Mobile Phone
+3235,7,Prospect,Tablet,3/31/2019,0.002163833075734157,Prospect Tablet
+10148,70,Prospect,Desktop,3/31/2019,0.006897910918407568,Prospect Desktop
+242940,420,Undetermined,Mobile Phone,3/31/2019,0.0017288219313410721,Undetermined Mobile Phone
+85958,407,Undetermined,Desktop,3/31/2019,0.004734870518160032,Undetermined Desktop
+94933,980,Customer,Mobile Phone,3/31/2019,0.01032306995459956,Customer Mobile Phone
+22765,91,Undetermined,Tablet,3/31/2019,0.003997364375137272,Undetermined Tablet
+179007,571,Undetermined,Desktop,2/8/2019,0.003189819392537722,Undetermined Desktop
+85898,893,Customer,Mobile Phone,2/8/2019,0.010396051130410486,Customer Mobile Phone
+25157,41,Undetermined,Tablet,2/8/2019,0.0016297650753269468,Undetermined Tablet
+14291,309,Customer,Tablet,2/8/2019,0.021621999860051783,Customer Tablet
+153558,3734,Customer,Desktop,2/8/2019,0.024316544888576302,Customer Desktop
+16263,98,Prospect,Mobile Phone,2/8/2019,0.0060259484719916365,Prospect Mobile Phone
+2802,8,Prospect,Tablet,2/8/2019,0.0028551034975017845,Prospect Tablet
+19641,72,Prospect,Desktop,2/8/2019,0.003665801130288682,Prospect Desktop
+214753,360,Undetermined,Mobile Phone,2/8/2019,0.001676344451532691,Undetermined Mobile Phone
+223721,317,Undetermined,Mobile Phone,3/24/2019,0.001416943425069618,Undetermined Mobile Phone
+79655,316,Undetermined,Desktop,3/24/2019,0.003967108153913753,Undetermined Desktop
+92998,825,Customer,Mobile Phone,3/24/2019,0.008871158519538055,Customer Mobile Phone
+23377,61,Undetermined,Tablet,3/24/2019,0.002609402404072379,Undetermined Tablet
+15487,414,Customer,Tablet,3/24/2019,0.026732097888551687,Customer Tablet
+86970,2756,Customer,Desktop,3/24/2019,0.031689088191330345,Customer Desktop
+28092,112,Prospect,Mobile Phone,3/24/2019,0.003986900185106081,Prospect Mobile Phone
+3773,8,Prospect,Tablet,3/24/2019,0.002120328650940896,Prospect Tablet
+11502,64,Prospect,Desktop,3/24/2019,0.005564249695705095,Prospect Desktop
+169495,340,Undetermined,Mobile Phone,3/3/2019,0.002005958877843005,Undetermined Mobile Phone
+124930,588,Undetermined,Desktop,3/3/2019,0.004706635716000961,Undetermined Desktop
+86839,1196,Customer,Mobile Phone,3/3/2019,0.01377261368739852,Customer Mobile Phone
+19324,47,Undetermined,Tablet,3/3/2019,0.0024322086524529085,Undetermined Tablet
+16062,467,Customer,Tablet,3/3/2019,0.02907483501431951,Customer Tablet
+123865,3897,Customer,Desktop,3/3/2019,0.03146167198159286,Customer Desktop
+23754,107,Prospect,Mobile Phone,3/3/2019,0.0045045045045045045,Prospect Mobile Phone
+3524,10,Prospect,Tablet,3/3/2019,0.002837684449489217,Prospect Tablet
+16631,95,Prospect,Desktop,3/3/2019,0.0057122241597017615,Prospect Desktop
+207942,249,Undetermined,Mobile Phone,2/10/2019,0.0011974492887439766,Undetermined Mobile Phone
+140591,353,Undetermined,Desktop,2/10/2019,0.0025108292849471163,Undetermined Desktop
+86474,871,Customer,Mobile Phone,2/10/2019,0.010072391701551912,Customer Mobile Phone
+25654,47,Undetermined,Tablet,2/10/2019,0.0018320729710766352,Undetermined Tablet
+16178,405,Customer,Tablet,2/10/2019,0.02503399678575844,Customer Tablet
+113659,2910,Customer,Desktop,2/10/2019,0.02560289990233945,Customer Desktop
+24476,87,Prospect,Mobile Phone,2/10/2019,0.0035545023696682467,Prospect Mobile Phone
+4433,8,Prospect,Tablet,2/10/2019,0.0018046469659372887,Prospect Tablet
+18867,86,Prospect,Desktop,2/10/2019,0.0045582233529442955,Prospect Desktop
+19228,123,Prospect,Desktop,3/11/2019,0.006396921156646557,Prospect Desktop
+162171,290,Undetermined,Mobile Phone,3/11/2019,0.0017882358744781745,Undetermined Mobile Phone
+151662,705,Undetermined,Desktop,3/11/2019,0.004648494678957155,Undetermined Desktop
+78720,809,Customer,Mobile Phone,3/11/2019,0.010276930894308943,Customer Mobile Phone
+17411,36,Undetermined,Tablet,3/11/2019,0.0020676583768881747,Undetermined Tablet
+13290,326,Customer,Tablet,3/11/2019,0.02452972159518435,Customer Tablet
+163301,3991,Customer,Desktop,3/11/2019,0.024439531907336758,Customer Desktop
+21013,102,Prospect,Mobile Phone,3/11/2019,0.004854137914624281,Prospect Mobile Phone
+2957,9,Prospect,Tablet,3/11/2019,0.003043625295908015,Prospect Tablet
+2844,4,Prospect,Tablet,2/5/2019,0.0014064697609001409,Prospect Tablet
+18790,82,Prospect,Desktop,2/5/2019,0.004364023416711015,Prospect Desktop
+176346,272,Undetermined,Mobile Phone,2/5/2019,0.00154242228346546,Undetermined Mobile Phone
+160267,556,Undetermined,Desktop,2/5/2019,0.003469210754553339,Undetermined Desktop
+77440,795,Customer,Mobile Phone,2/5/2019,0.010266012396694215,Customer Mobile Phone
+21429,41,Undetermined,Tablet,2/5/2019,0.0019132950674319847,Undetermined Tablet
+13388,307,Customer,Tablet,2/5/2019,0.022930982969823724,Customer Tablet
+152234,3558,Customer,Desktop,2/5/2019,0.023371914289843268,Customer Desktop
+16361,78,Prospect,Mobile Phone,2/5/2019,0.004767434753376933,Prospect Mobile Phone
+79729,936,Customer,Mobile Phone,3/16/2019,0.011739768465677482,Customer Mobile Phone
+20986,56,Undetermined,Tablet,3/16/2019,0.00266844563042028,Undetermined Tablet
+14494,405,Customer,Tablet,3/16/2019,0.02794259693666345,Customer Tablet
+118499,3364,Customer,Desktop,3/16/2019,0.02838842521877822,Customer Desktop
+21711,91,Prospect,Mobile Phone,3/16/2019,0.004191423702270739,Prospect Mobile Phone
+3358,6,Prospect,Tablet,3/16/2019,0.0017867778439547351,Prospect Tablet
+15337,95,Prospect,Desktop,3/16/2019,0.006194170959118472,Prospect Desktop
+169425,255,Undetermined,Mobile Phone,3/16/2019,0.0015050907481186364,Undetermined Mobile Phone
+135771,505,Undetermined,Desktop,3/16/2019,0.00371949827282704,Undetermined Desktop
+15064,386,Customer,Tablet,3/10/2019,0.02562400424853957,Customer Tablet
+112555,3033,Customer,Desktop,3/10/2019,0.026946825996179646,Customer Desktop
+21713,82,Prospect,Mobile Phone,3/10/2019,0.003776539400359232,Prospect Mobile Phone
+3290,10,Prospect,Tablet,3/10/2019,0.00303951367781155,Prospect Tablet
+13107,72,Prospect,Desktop,3/10/2019,0.005493247882810711,Prospect Desktop
+159871,245,Undetermined,Mobile Phone,3/10/2019,0.001532485566487981,Undetermined Mobile Phone
+111532,544,Undetermined,Desktop,3/10/2019,0.004877523939317864,Undetermined Desktop
+80212,880,Customer,Mobile Phone,3/10/2019,0.010970927043335162,Customer Mobile Phone
+19688,54,Undetermined,Tablet,3/10/2019,0.0027427874847622924,Undetermined Tablet
+131073,3815,Customer,Desktop,3/2/2019,0.02910591807618655,Customer Desktop
+24743,118,Prospect,Mobile Phone,3/2/2019,0.00476902558299317,Prospect Mobile Phone
+3449,12,Prospect,Tablet,3/2/2019,0.0034792693534357786,Prospect Tablet
+16990,109,Prospect,Desktop,3/2/2019,0.0064155385520894646,Prospect Desktop
+179557,330,Undetermined,Mobile Phone,3/2/2019,0.0018378565023919981,Undetermined Mobile Phone
+128910,613,Undetermined,Desktop,3/2/2019,0.00475525560468544,Undetermined Desktop
+96279,1251,Customer,Mobile Phone,3/2/2019,0.012993487676440344,Customer Mobile Phone
+20217,56,Undetermined,Tablet,3/2/2019,0.002769946084977989,Undetermined Tablet
+16966,556,Customer,Tablet,3/2/2019,0.032771425203347866,Customer Tablet
+3191,5,Prospect,Tablet,2/7/2019,0.0015669069257286115,Prospect Tablet
+19949,95,Prospect,Desktop,2/7/2019,0.0047621434658378856,Prospect Desktop
+199045,314,Undetermined,Mobile Phone,2/7/2019,0.0015775327187319448,Undetermined Mobile Phone
+167437,534,Undetermined,Desktop,2/7/2019,0.00318925924377527,Undetermined Desktop
+93770,998,Customer,Mobile Phone,2/7/2019,0.010643062813266504,Customer Mobile Phone
+24334,42,Undetermined,Tablet,2/7/2019,0.001725980110133969,Undetermined Tablet
+14759,309,Customer,Tablet,2/7/2019,0.020936377803374213,Customer Tablet
+157491,3927,Customer,Desktop,2/7/2019,0.024934758176657714,Customer Desktop
+17452,85,Prospect,Mobile Phone,2/7/2019,0.0048705019482007785,Prospect Mobile Phone
+20201,88,Prospect,Mobile Phone,3/19/2019,0.00435621998910945,Prospect Mobile Phone
+3071,8,Prospect,Tablet,3/19/2019,0.0026050146532074245,Prospect Tablet
+19697,110,Prospect,Desktop,3/19/2019,0.005584606792912626,Prospect Desktop
+137946,342,Undetermined,Mobile Phone,3/19/2019,0.0024792310034361274,Undetermined Mobile Phone
+155500,750,Undetermined,Desktop,3/19/2019,0.00482315112540193,Undetermined Desktop
+84161,688,Customer,Mobile Phone,3/19/2019,0.008174807808842575,Customer Mobile Phone
+15456,67,Undetermined,Tablet,3/19/2019,0.004334886128364389,Undetermined Tablet
+13839,317,Customer,Tablet,3/19/2019,0.02290627935544476,Customer Tablet
+160420,4151,Customer,Desktop,3/19/2019,0.025875825956863236,Customer Desktop
+140771,4077,Customer,Desktop,3/25/2019,0.028961931079554738,Customer Desktop
+28191,130,Prospect,Mobile Phone,3/25/2019,0.004611400801674293,Prospect Mobile Phone
+3597,11,Prospect,Tablet,3/25/2019,0.003058103975535168,Prospect Tablet
+17570,129,Prospect,Desktop,3/25/2019,0.007342060330108139,Prospect Desktop
+211886,363,Undetermined,Mobile Phone,3/25/2019,0.0017131853921448323,Undetermined Mobile Phone
+116726,613,Undetermined,Desktop,3/25/2019,0.005251614892997276,Undetermined Desktop
+93418,850,Customer,Mobile Phone,3/25/2019,0.009098888865100943,Customer Mobile Phone
+19895,45,Undetermined,Tablet,3/25/2019,0.0022618748429253576,Undetermined Tablet
+14217,327,Customer,Tablet,3/25/2019,0.023000633044946192,Customer Tablet
+146228,3982,Customer,Desktop,2/11/2019,0.027231446781738108,Customer Desktop
+22494,97,Prospect,Mobile Phone,2/11/2019,0.004312261047390415,Prospect Mobile Phone
+4135,13,Prospect,Tablet,2/11/2019,0.003143893591293833,Prospect Tablet
+23133,102,Prospect,Desktop,2/11/2019,0.0044092854363895735,Prospect Desktop
+208457,250,Undetermined,Mobile Phone,2/11/2019,0.0011992881025823072,Undetermined Mobile Phone
+176326,528,Undetermined,Desktop,2/11/2019,0.002994453455531232,Undetermined Desktop
+78626,816,Customer,Mobile Phone,2/11/2019,0.01037824638160405,Customer Mobile Phone
+24423,41,Undetermined,Tablet,2/11/2019,0.001678745444867543,Undetermined Tablet
+13255,288,Customer,Tablet,2/11/2019,0.021727649943417582,Customer Tablet
+21460,125,Prospect,Desktop,3/5/2019,0.005824790307548928,Prospect Desktop
+160405,309,Undetermined,Mobile Phone,3/5/2019,0.0019263738661513046,Undetermined Mobile Phone
+160582,665,Undetermined,Desktop,3/5/2019,0.00414118643434507,Undetermined Desktop
+80715,931,Customer,Mobile Phone,3/5/2019,0.011534411199900884,Customer Mobile Phone
+17879,50,Undetermined,Tablet,3/5/2019,0.0027965769897645284,Undetermined Tablet
+13119,356,Customer,Tablet,3/5/2019,0.027136214650506897,Customer Tablet
+162106,4505,Customer,Desktop,3/5/2019,0.027790458095320342,Customer Desktop
+20451,99,Prospect,Mobile Phone,3/5/2019,0.004840839078773654,Prospect Mobile Phone
+2817,10,Prospect,Tablet,3/5/2019,0.0035498757543485976,Prospect Tablet
+79075,787,Customer,Mobile Phone,2/6/2019,0.00995257666772052,Customer Mobile Phone
+22085,37,Undetermined,Tablet,2/6/2019,0.0016753452569617387,Undetermined Tablet
+13652,264,Customer,Tablet,2/6/2019,0.019337825959566363,Customer Tablet
+150209,3329,Customer,Desktop,2/6/2019,0.02216245364791724,Customer Desktop
+19504,106,Prospect,Mobile Phone,2/6/2019,0.005434782608695652,Prospect Mobile Phone
+3428,7,Prospect,Tablet,2/6/2019,0.002042007001166861,Prospect Tablet
+21437,98,Prospect,Desktop,2/6/2019,0.004571535196156179,Prospect Desktop
+171252,279,Undetermined,Mobile Phone,2/6/2019,0.0016291780533949968,Undetermined Mobile Phone
+155046,535,Undetermined,Desktop,2/6/2019,0.003450588857500355,Undetermined Desktop
+94438,3081,Customer,Desktop,3/23/2019,0.03262457908892607,Customer Desktop
+27964,102,Prospect,Mobile Phone,3/23/2019,0.0036475468459447854,Prospect Mobile Phone
+3694,8,Prospect,Tablet,3/23/2019,0.002165674066053059,Prospect Tablet
+12046,62,Prospect,Desktop,3/23/2019,0.005146936742487133,Prospect Desktop
+228567,344,Undetermined,Mobile Phone,3/23/2019,0.0015050291599399738,Undetermined Mobile Phone
+83569,282,Undetermined,Desktop,3/23/2019,0.003374457035503596,Undetermined Desktop
+99720,951,Customer,Mobile Phone,3/23/2019,0.0095367027677497,Customer Mobile Phone
+23609,52,Undetermined,Tablet,3/23/2019,0.0022025498750476514,Undetermined Tablet
+16224,416,Customer,Tablet,3/23/2019,0.02564102564102564,Customer Tablet
+97140,1207,Customer,Mobile Phone,2/27/2019,0.012425365451925055,Customer Mobile Phone
+20483,59,Undetermined,Tablet,2/27/2019,0.0028804374359224717,Undetermined Tablet
+13761,370,Customer,Tablet,2/27/2019,0.026887580844415376,Customer Tablet
+160627,4469,Customer,Desktop,2/27/2019,0.027822221668835245,Customer Desktop
+20778,147,Prospect,Mobile Phone,2/27/2019,0.0070747906439503315,Prospect Mobile Phone
+2816,8,Prospect,Tablet,2/27/2019,0.002840909090909091,Prospect Tablet
+19058,139,Prospect,Desktop,2/27/2019,0.007293525028859272,Prospect Desktop
+206058,552,Undetermined,Mobile Phone,2/27/2019,0.002678857409078997,Undetermined Mobile Phone
+171731,975,Undetermined,Desktop,2/27/2019,0.005677483972026018,Undetermined Desktop
+231106,435,Undetermined,Mobile Phone,3/22/2019,0.001882253165214231,Undetermined Mobile Phone
+113672,472,Undetermined,Desktop,3/22/2019,0.004152297839397565,Undetermined Desktop
+104594,947,Customer,Mobile Phone,3/22/2019,0.009054056638048072,Customer Mobile Phone
+21237,94,Undetermined,Tablet,3/22/2019,0.0044262372274803405,Undetermined Tablet
+17231,314,Customer,Tablet,3/22/2019,0.0182229702280773,Customer Tablet
+141618,3812,Customer,Desktop,3/22/2019,0.02691748224095807,Customer Desktop
+22989,109,Prospect,Mobile Phone,3/22/2019,0.004741398059941711,Prospect Mobile Phone
+3099,14,Prospect,Tablet,3/22/2019,0.00451758631816715,Prospect Tablet
+16244,98,Prospect,Desktop,3/22/2019,0.006032996798818025,Prospect Desktop
+148401,743,Undetermined,Desktop,3/1/2019,0.005006704806571384,Undetermined Desktop
+100142,1138,Customer,Mobile Phone,3/1/2019,0.011363863314093987,Customer Mobile Phone
+18099,61,Undetermined,Tablet,3/1/2019,0.0033703519531465827,Undetermined Tablet
+16156,383,Customer,Tablet,3/1/2019,0.023706362961128997,Customer Tablet
+173188,4778,Customer,Desktop,3/1/2019,0.027588516525394367,Customer Desktop
+23633,166,Prospect,Mobile Phone,3/1/2019,0.007024076503194685,Prospect Mobile Phone
+3314,14,Prospect,Tablet,3/1/2019,0.004224502112251056,Prospect Tablet
+21022,137,Prospect,Desktop,3/1/2019,0.006516982209114262,Prospect Desktop
+178163,364,Undetermined,Mobile Phone,3/1/2019,0.002043072916374332,Undetermined Mobile Phone
+22261,137,Prospect,Mobile Phone,2/28/2019,0.006154260814878038,Prospect Mobile Phone
+2891,7,Prospect,Tablet,2/28/2019,0.0024213075060532693,Prospect Tablet
+17938,122,Prospect,Desktop,2/28/2019,0.006801204147619579,Prospect Desktop
+172959,431,Undetermined,Mobile Phone,2/28/2019,0.002491920050416573,Undetermined Mobile Phone
+159513,906,Undetermined,Desktop,2/28/2019,0.005679787854281469,Undetermined Desktop
+83127,899,Customer,Mobile Phone,2/28/2019,0.010814777388814706,Customer Mobile Phone
+17795,61,Undetermined,Tablet,2/28/2019,0.0034279291935937067,Undetermined Tablet
+12091,310,Customer,Tablet,2/28/2019,0.02563890497063932,Customer Tablet
+152206,4046,Customer,Desktop,2/28/2019,0.026582394912158518,Customer Desktop
+124472,600,Undetermined,Desktop,3/20/2019,0.004820361205733015,Undetermined Desktop
+108307,806,Customer,Mobile Phone,3/20/2019,0.00744180893201732,Customer Mobile Phone
+18891,91,Undetermined,Tablet,3/20/2019,0.004817108676089143,Undetermined Tablet
+15423,361,Customer,Tablet,3/20/2019,0.023406600531673483,Customer Tablet
+141595,3892,Customer,Desktop,3/20/2019,0.02748684628694516,Customer Desktop
+20153,84,Prospect,Mobile Phone,3/20/2019,0.004168113928447377,Prospect Mobile Phone
+2772,12,Prospect,Tablet,3/20/2019,0.004329004329004329,Prospect Tablet
+15881,96,Prospect,Desktop,3/20/2019,0.0060449593854291295,Prospect Desktop
+196609,424,Undetermined,Mobile Phone,3/20/2019,0.0021565645519788005,Undetermined Mobile Phone
+171400,4853,Customer,Desktop,3/4/2019,0.02831388564760793,Customer Desktop
+23459,120,Prospect,Mobile Phone,3/4/2019,0.005115307557866917,Prospect Mobile Phone
+3155,14,Prospect,Tablet,3/4/2019,0.0044374009508716325,Prospect Tablet
+22435,131,Prospect,Desktop,3/4/2019,0.005839090706485402,Prospect Desktop
+165571,323,Undetermined,Mobile Phone,3/4/2019,0.0019508247217205914,Undetermined Mobile Phone
+163578,743,Undetermined,Desktop,3/4/2019,0.004542175598185575,Undetermined Desktop
+83807,999,Customer,Mobile Phone,3/4/2019,0.011920245325569463,Customer Mobile Phone
+17209,54,Undetermined,Tablet,3/4/2019,0.0031378929629844853,Undetermined Tablet
+13987,372,Customer,Tablet,3/4/2019,0.02659612497318939,Customer Tablet
+2491,12,Prospect,Tablet,3/15/2019,0.004817342432757929,Prospect Tablet
+17123,103,Prospect,Desktop,3/15/2019,0.006015301057057759,Prospect Desktop
+165910,340,Undetermined,Mobile Phone,3/15/2019,0.002049303839431017,Undetermined Mobile Phone
+162931,600,Undetermined,Desktop,3/15/2019,0.003682540461913325,Undetermined Desktop
+79729,876,Customer,Mobile Phone,3/15/2019,0.01098721920505713,Customer Mobile Phone
+18670,50,Undetermined,Tablet,3/15/2019,0.002678093197643278,Undetermined Tablet
+14116,322,Customer,Tablet,3/15/2019,0.022810994616038537,Customer Tablet
+164170,4061,Customer,Desktop,3/15/2019,0.02473655357251629,Customer Desktop
+16411,96,Prospect,Mobile Phone,3/15/2019,0.0058497349338858095,Prospect Mobile Phone
+153677,3289,Customer,Desktop,2/15/2019,0.021402031533671272,Customer Desktop
+20868,97,Prospect,Mobile Phone,2/15/2019,0.004648265286563159,Prospect Mobile Phone
+3739,9,Prospect,Tablet,2/15/2019,0.0024070607114201658,Prospect Tablet
+22247,113,Prospect,Desktop,2/15/2019,0.005079336539758171,Prospect Desktop
+185715,294,Undetermined,Mobile Phone,2/15/2019,0.0015830708343429448,Undetermined Mobile Phone
+159781,554,Undetermined,Desktop,2/15/2019,0.003467245792678729,Undetermined Desktop
+85510,851,Customer,Mobile Phone,2/15/2019,0.009952052391533154,Customer Mobile Phone
+20734,59,Undetermined,Tablet,2/15/2019,0.002845567666634513,Undetermined Tablet
+14192,341,Customer,Tablet,2/15/2019,0.02402762119503946,Customer Tablet
+3079,10,Prospect,Tablet,2/26/2019,0.003247807729782397,Prospect Tablet
+22334,104,Prospect,Desktop,2/26/2019,0.004656577415599534,Prospect Desktop
+188153,398,Undetermined,Mobile Phone,2/26/2019,0.002115299782623716,Undetermined Mobile Phone
+163959,729,Undetermined,Desktop,2/26/2019,0.0044462335095969115,Undetermined Desktop
+98984,925,Customer,Mobile Phone,2/26/2019,0.009344944637517177,Customer Mobile Phone
+18940,47,Undetermined,Tablet,2/26/2019,0.002481520591341077,Undetermined Tablet
+13496,350,Customer,Tablet,2/26/2019,0.025933609958506226,Customer Tablet
+161411,3799,Customer,Desktop,2/26/2019,0.023536190222475543,Customer Desktop
+23473,119,Prospect,Mobile Phone,2/26/2019,0.005069654496655732,Prospect Mobile Phone
+10996,86,Prospect,Desktop,3/30/2019,0.007821025827573663,Prospect Desktop
+253532,411,Undetermined,Mobile Phone,3/30/2019,0.0016210971396115675,Undetermined Mobile Phone
+84151,378,Undetermined,Desktop,3/30/2019,0.004491925229646707,Undetermined Desktop
+108058,1050,Customer,Mobile Phone,3/30/2019,0.009717003831275795,Customer Mobile Phone
+23696,62,Undetermined,Tablet,3/30/2019,0.002616475354490209,Undetermined Tablet
+16125,464,Customer,Tablet,3/30/2019,0.028775193798449613,Customer Tablet
+92489,2879,Customer,Desktop,3/30/2019,0.03112802603552855,Customer Desktop
+29662,111,Prospect,Mobile Phone,3/30/2019,0.003742161688355472,Prospect Mobile Phone
+3854,5,Prospect,Tablet,3/30/2019,0.0012973533990659055,Prospect Tablet
+285902,1411,Undetermined,Mobile Phone,3/8/2019,0.00493525753579898,Undetermined Mobile Phone
+351146,5187,Undetermined,Desktop,3/8/2019,0.014771633451612719,Undetermined Desktop
+36927,407,Undetermined,Tablet,3/8/2019,0.011021745606196008,Undetermined Tablet
+152603,3475,Customer,Desktop,2/13/2019,0.02277150514734311,Customer Desktop
+21427,110,Prospect,Mobile Phone,2/13/2019,0.005133709805385728,Prospect Mobile Phone
+3924,16,Prospect,Tablet,2/13/2019,0.004077471967380225,Prospect Tablet
+22727,95,Prospect,Desktop,2/13/2019,0.004180050160601927,Prospect Desktop
+181897,280,Undetermined,Mobile Phone,2/13/2019,0.0015393326992748644,Undetermined Mobile Phone
+168143,649,Undetermined,Desktop,2/13/2019,0.003859809804749529,Undetermined Desktop
+83362,767,Customer,Mobile Phone,2/13/2019,0.009200834912790001,Customer Mobile Phone
+20899,50,Undetermined,Tablet,2/13/2019,0.002392458969328676,Undetermined Tablet
+13628,267,Customer,Tablet,2/13/2019,0.019592016436747867,Customer Tablet
+13915,265,Customer,Tablet,2/19/2019,0.01904419690980956,Customer Tablet
+150879,3385,Customer,Desktop,2/19/2019,0.02243519641567084,Customer Desktop
+15405,75,Prospect,Mobile Phone,2/19/2019,0.00486854917234664,Prospect Mobile Phone
+2941,3,Prospect,Tablet,2/19/2019,0.0010200612036722202,Prospect Tablet
+18469,66,Prospect,Desktop,2/19/2019,0.0035735556879094702,Prospect Desktop
+181657,330,Undetermined,Mobile Phone,2/19/2019,0.0018166104251418878,Undetermined Mobile Phone
+169224,882,Undetermined,Desktop,2/19/2019,0.0052120266628846975,Undetermined Desktop
+89765,730,Customer,Mobile Phone,2/19/2019,0.008132345568985684,Customer Mobile Phone
+20888,70,Undetermined,Tablet,2/19/2019,0.003351206434316354,Undetermined Tablet
+2103,31,Customer,Desktop,3/27/2019,0.014740846409890632,Customer Desktop
+1382,3,Prospect,Mobile Phone,3/27/2019,0.002170767004341534,Prospect Mobile Phone
+142,0,Prospect,Tablet,3/27/2019,0.0,Prospect Tablet
+584,0,Prospect,Desktop,3/27/2019,0.0,Prospect Desktop
+354743,1506,Undetermined,Mobile Phone,3/27/2019,0.004245326898628021,Undetermined Mobile Phone
+263239,4361,Undetermined,Desktop,3/27/2019,0.016566694144864554,Undetermined Desktop
+3668,24,Customer,Mobile Phone,3/27/2019,0.006543075245365322,Customer Mobile Phone
+38170,406,Undetermined,Tablet,3/27/2019,0.0106366256222164,Undetermined Tablet
+413,2,Customer,Tablet,3/27/2019,0.004842615012106539,Customer Tablet
+22154,90,Prospect,Desktop,2/14/2019,0.004062471788390358,Prospect Desktop
+174687,262,Undetermined,Mobile Phone,2/14/2019,0.0014998254020047285,Undetermined Mobile Phone
+157083,576,Undetermined,Desktop,2/14/2019,0.00366685128244304,Undetermined Desktop
+82352,690,Customer,Mobile Phone,2/14/2019,0.008378667184767825,Customer Mobile Phone
+19510,29,Undetermined,Tablet,2/14/2019,0.001486417221937468,Undetermined Tablet
+13313,259,Customer,Tablet,2/14/2019,0.019454668369263125,Customer Tablet
+144290,3114,Customer,Desktop,2/14/2019,0.0215815371820639,Customer Desktop
+20957,95,Prospect,Mobile Phone,2/14/2019,0.004533091568449683,Prospect Mobile Phone
+3754,15,Prospect,Tablet,2/14/2019,0.003995737879595097,Prospect Tablet
+5172,25,Prospect,Desktop,3/28/2019,0.004833720030935807,Prospect Desktop
+340539,1240,Undetermined,Mobile Phone,3/28/2019,0.0036412863137555455,Undetermined Mobile Phone
+225137,3203,Undetermined,Desktop,3/28/2019,0.014226892958509709,Undetermined Desktop
+32990,265,Customer,Mobile Phone,3/28/2019,0.008032737193088816,Customer Mobile Phone
+35277,296,Undetermined,Tablet,3/28/2019,0.008390736173710917,Undetermined Tablet
+4031,48,Customer,Tablet,3/28/2019,0.011907715207144629,Customer Tablet
+44397,964,Customer,Desktop,3/28/2019,0.02171317881838863,Customer Desktop
+6813,31,Prospect,Mobile Phone,3/28/2019,0.0045501247614853964,Prospect Mobile Phone
+804,1,Prospect,Tablet,3/28/2019,0.0012437810945273634,Prospect Tablet
